@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning about graph and vision
 - 🤔 I’m looking for help with comment about my repos
 - 📫 How to reach me: 201719987@jbnu.ac.kr 
-- 😄 Present : Gist AIlab research internship
+- 😄 Present : Gist AI Lab research internship
