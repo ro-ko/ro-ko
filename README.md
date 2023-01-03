@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with comment about my repos
 - 📫 How to reach me: 201719987@jbnu.ac.kr 
 - 😄 Present : Gist AI Lab research internship
+- 💻 Here is my personal blog : https://ro-ko.tistory.com
