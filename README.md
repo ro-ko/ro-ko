@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Jeonbuk Univ.
+- 🔭 I’m expected to graduation from Jeonbuk Univ. (B.D.)
 - 🌱 I’m currently learning Deep learning with graph
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with comment for my repo
