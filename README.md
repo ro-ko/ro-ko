@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 201719987@jbnu.ac.kr 
 - 😄 Present : Gist AI Lab research internship
 - 💻 Here is my personal blog : https://ro-ko.tistory.com
+
+
+What I've done:
+- Undergraduate researcher in Datamining lab, JBNU
+- JBIG Big data study club
+- AI study in JBNU Computer Engineering
+- LG Aimers
+- Gist ai lab winter internship
