@@ -31,6 +31,4 @@ What I've done:
 - LG Aimers
 - Gist ai lab winter internship
 
-![ROKO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-ko)](https://github.com/anuraghazra/github-readme-stats)
+![ROKO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro-ko)](https://github.com/anuraghazra/github-readme-stats)
