@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ROKO's%20github&descAlignY=51&descAlign=62)
-<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ROKO's%20github&descAlignY=51&descAlign=62)
+<p align='center'> I'will be a full stack AI researcher! </p>
 <p align='center'>
   <a href="https://ro-ko.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-%23F7DF1E.svg?&style=flat-square"/>
   </a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fro-ko%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fro-ko%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
   </a>
 </p>
 
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 - 😄 Present : Gist AI Lab research internship
 - 💻 Here is my personal blog : https://ro-ko.tistory.com
 - 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 What I've done:
 - Undergraduate researcher in Datamining lab, JBNU
