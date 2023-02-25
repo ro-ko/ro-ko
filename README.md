@@ -30,3 +30,5 @@ What I've done:
 - AI study in JBNU Computer Engineering
 - LG Aimers
 - Gist ai lab winter internship
+
+![ROKO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&theme=radical)
