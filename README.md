@@ -32,7 +32,3 @@ What I've done:
 - Gist ai lab winter internship
 
 ![ROKO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&theme=radical)
-<p align="center"> 
-  Visitor count<br>
-    <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
