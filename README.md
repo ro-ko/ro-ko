@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ROKO's%20github&descAlignY=51&descAlign=62 />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ROKO's%20github&descAlignY=51&descAlign=62)
+<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'>
+  <a href="https://ro-ko.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fro-ko%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+  </a>
+</p>
+
 ### KeonWoo Ro 👋
 
 ⚡Pytorch ⚡Python ⚡ML/DL 
