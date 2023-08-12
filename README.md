@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning about graph and vision
 - 🤔 I’m looking for help with comment about my repos
 - 📫 How to reach me: 201719987@jbnu.ac.kr 
-- 😄 Present : Gist AI Lab research internship
+- 😄 Present : MS at Korea universiity PRML lab
 - 💻 Here is my personal blog : https://ro-ko.tistory.com
 
 
@@ -38,8 +38,10 @@ What I've done:
 - Undergraduate researcher in Datamining lab, JBNU
 - JBIG Big data study club
 - AI study in JBNU Computer Engineering
-- LG Aimers
-- Gist ai lab winter internship
+- LG Aimers2
+- Gist AI lab winter internship
+- Gist AI lab spring internship
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-ko&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
