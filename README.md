@@ -39,8 +39,7 @@ What I've done:
 - JBIG Big data study club
 - AI study in JBNU Computer Engineering
 - LG Aimers2
-- Gist AI lab winter internship
-- Gist AI lab spring internship
+- Gist AI lab winter-spring internship
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ro-ko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-ko&layout=compact&theme=buefy&hide_border=true" /></a> |
