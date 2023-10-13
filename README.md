@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying on Jeonbuk Univ.
-- 🌱 I’m currently learning Deep learning about graph and vision
+- 🔭 I’m currently studying in Korea Univ.
+- 🌱 I’m currently learning Deep learning about GNN and LLM
 - 🤔 I’m looking for help with comment about my repos
-- 📫 How to reach me: 201719987@jbnu.ac.kr 
+- 📫 How to reach me: ro_keonwoo@korea.ac.kr 
 - 😄 Present : MS at Korea universiity PRML lab
-- 💻 Here is my personal blog : https://ro-ko.tistory.com
+- 💻 Here is my personal blog : [Tistroy](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
 
 
 What I've done:
 - Undergraduate researcher in Datamining lab, JBNU
 - JBIG Big data study club
 - AI study in JBNU Computer Engineering
-- LG Aimers2
+- LG Aimers2, 3
 - Gist AI lab winter-spring internship
 
 
