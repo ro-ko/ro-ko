@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with comment about my repos
 - 📫 How to reach me: ro_keonwoo@korea.ac.kr 
 - 😄 Present : MS at Korea universiity PRML lab
-- 💻 Here is my personal blog : [Tistroy](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
+- 💻 Here is my personal blog : [Tistory](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
 
 
 What I've done:
