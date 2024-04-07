@@ -16,27 +16,27 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m expected to graduation from Jeonbuk Univ. (B.D.)
+- 🔭 I’m expected to graduate from Jeonbuk Univ. (B.D.)
 - 🌱 I’m currently learning Deep learning with graph
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with comment for my repo
+- 🤔 I’m looking for help with comments for my repo
 - 💬 Ask me about ...
 - 📫 How to reach me: 201719987@jbnu.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in Korea Univ.
+- 🔭 I’m currently studying at Korea Univ.
 - 🌱 I’m currently learning Deep learning about GNN and LLM
-- 🤔 I’m looking for help with comment about my repos
+- 🤔 I’m looking for help with comments about my repos
 - 📫 How to reach me: ro_keonwoo@korea.ac.kr 
-- 😄 Present : MS at Korea universiity PRML lab
-- 💻 Here is my personal blog : [Tistory](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
-
+- 😄 Present: MS at Korean University PRML lab
+- 💻 Here is my personal blog: [Tistory](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
+- 📚 Study club (PRML) site: [Notion](bit.ly/prml)
 
 What I've done:
 - Undergraduate researcher in Datamining lab, JBNU
-- JBIG Big data study club
+- JBIG Big Data Study Club
 - AI study in JBNU Computer Engineering
 - LG Aimers2, 3
 - Gist AI lab winter-spring internship
