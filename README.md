@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Present: MS at Korean University PRML lab
 - 💻 Here is my personal blog: [Tistory](https://ro-ko.tistory.com), [Gitpage](https://ro-ko.github.io)
 - 📚 Study club (PRML) site: [Notion](bit.ly/prml)
-- 💬 Online meeting [Schedule](https://whattime.co.kr/keonwooroh)
+- 💬 Online meeting: [Schedule](https://whattime.co.kr/keonwooroh)
 
 What I've done:
 - Undergraduate researcher in Datamining lab, JBNU
