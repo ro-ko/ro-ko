@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 💬 Online meeting: [Schedule](https://whattime.co.kr/keonwooroh)
 
 What I've done:
-- Undergraduate researcher in Datamining lab, JBNU
+- Undergraduate research in Data Science lab (DSlab), JBNU
 - JBIG Big Data Study Club
 - AI study in JBNU Computer Engineering
 - LG Aimers2, 3
