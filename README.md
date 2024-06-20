@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with comments about my repos
 - 📫 How to reach me: ro_keonwoo@korea.ac.kr 
 - 😄 Present: MS at Korean University PRML lab
-- 💻 Here is my personal blog: [Tistory](https://ro-ko.tistory.com){:target="_blank"}
-- 📄 Here is my portfolio website: [Gitpage](https://ro-ko.github.io){:target="_blank"}
-- 📚 Study club (PRML) site: [Notion](bit.ly/prml){:target="_blank"}
-- 💬 Online meeting: [Schedule](https://whattime.co.kr/keonwooroh){:target="_blank"}
+- 💻 Here is my personal blog: <a href="https://ro-ko.tistory.com" target="_blank">Tistory</a>
+- 📄 Here is my portfolio website: <a href="https://ro-ko.github.io" target="_blank">Gitpage</a>
+- 📚 Study club (PRML) site: <a href="bit.ly/prml" target="_blank">Notion</a>
+- 💬 Online meeting: <a href="https://whattime.co.kr/keonwooroh" target="_blank">Schedule</a>
 
 What I've done:
 - Undergraduate research in Data Science lab (DSlab), JBNU
