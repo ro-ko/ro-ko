@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - 😄 Present: MS at Korean University PRML lab
 - 💻 Here is my personal blog: <a href="https://ro-ko.tistory.com" target="_blank">Tistory</a>
 - 📄 Here is my portfolio website: <a href="https://ro-ko.github.io" target="_blank">Gitpage</a>
-- 📚 Study club (PRML) site: <a href="bit.ly/prml" target="_blank">Notion</a>
-- 💬 Online meeting: <a href="https://whattime.co.kr/keonwooroh" target="_blank">Schedule</a>
+- 💬 Online meeting: <a href="https://whattime.co.kr/ro_keonwu" target="_blank">Schedule</a>
 
 What I've done:
+- Place AI Internship, Naver
 - Undergraduate research in Data Science lab (DSlab), JBNU
 - JBIG Big Data Study Club
 - AI study in JBNU Computer Engineering
