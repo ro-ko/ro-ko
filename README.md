@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 What I've done:
 - Place AI Internship, Naver
+- Graduate student (MS) in PRML Lab, KU
 - Undergraduate research in Data Science lab (DSlab), JBNU
 - JBIG Big Data Study Club
 - AI study in JBNU Computer Engineering
