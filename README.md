@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying at Korea Univ.
-- 🌱 I’m currently learning Deep learning about GNN and LLM
+- 🔭 I’m currently working at Netmarble Corp.
+- 🌱 I’m currently learning Deep learning about VLA and Multi-modality
 - 🤔 I’m looking for help with comments about my repos
 - 📫 How to reach me: ro_keonwoo@korea.ac.kr 
-- 😄 Present: MS at Korean University PRML lab
+- 😄 Present: Netmarble Corp.
 - 💻 Here is my personal blog: <a href="https://ro-ko.tistory.com" target="_blank">Tistory</a>
 - 📄 Here is my portfolio website: <a href="https://ro-ko.github.io" target="_blank">Gitpage</a>
 - 💬 Online meeting: <a href="https://whattime.co.kr/ro_keonwu" target="_blank">Schedule</a>
